@@ -1,16 +1,19 @@
-### Hi there 👋
+### 👋 Hello there! Glad to meet you.
 
-<!--
-**kumardeepakxyz/kumardeepakxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a startup enthusiast and a passionate full-stack web developer centered on growing your business.
 
-Here are some ideas to get you started:
+I help my clients to achieve high-quality and SEO-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skillset
+- 🦄 Develop Bespoke Websites
+- 👨‍🎨 Web Design / HTML (PUG) / CSS (SCSS)
+- 🔥 Node.js / JavaScript / MongoDB / Rest API
+- 🧙‍♂️ PHP / WordPress / MySQL
+- 👌 On-Page SEO / Website Optimization / QA Assurance
+
+### Fun Facts
+- 🧑‍💻 I’m currently working on Favicon Generator ([`favicon.one`](https://favicon.one))
+- 🧠 I’m currently learning BlockChain
+- 💬 Ask me about FrontEnd Development
+
+> Consult to get an online presence that assists you to grow your business online, acquire more potential clients and increase your overall sales. 🤩
