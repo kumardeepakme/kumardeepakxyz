@@ -1,19 +1,21 @@
-### 👋 Hello there! Glad to meet you.
+### 👋 Hi there! I'm Deepak Kumar (KD)
 
-I'm a startup enthusiast and a passionate full-stack web developer centered on growing your business.
+I help STARTUPS to QUICKLY build CREDIBLE ONLINE PRESENCE so they gain recognition as TRUSTED BRANDS.
 
-I help my clients to achieve high-quality and SEO-friendly websites.
+### Recent Projects
+- [favicon.one](https://favicon.one)
+- [PSPK NGO](https://pspkgreenspirituality.ngo)
+- [InterviewBuddy](https://interviewbuddy.net)
+- [Trell & Travel](https://trellandtravel.com)
+- [JatinJeweller](https://jatinjeweller.com)
 
-### My Skillset
-- 🦄 Develop Bespoke Websites
-- 👨‍🎨 Web Design / HTML (PUG) / CSS (SCSS)
-- 🔥 Node.js / JavaScript / MongoDB / Rest API
-- 🧙‍♂️ PHP / WordPress / MySQL
-- 👌 On-Page SEO / Website Optimization / QA Assurance
+### Contact Me
+Feel free to drop a friendly 'hello' or discuss your work requirements with me at inbox@kumardeepak.xyz
 
-### Fun Facts
-- 🧑‍💻 I’m currently working on Favicon Generator ([`favicon.one`](https://favicon.one))
-- 🧠 I’m currently learning BlockChain
-- 💬 Ask me about FrontEnd Development
+---
 
-> Consult to get an online presence that assists you to grow your business online, acquire more potential clients and increase your overall sales. 🤩
+Behind the scenes, I'm hard at work passionately crafting digital solutions that bring smiles to my clients' faces. My days are a dynamic mix of coding, design, and innovation, all expertly aimed at making their unique visions come to life.
+
+While my focus is on delivering excellence to them, I'm also here for you. If you have a project in mind, an idea to explore, or simply seek some tech inspiration, don't hesitate to reach out. Your digital dreams are just a message away from becoming a reality.
+
+Thank you for visiting, and let's team up to create something truly extraordinary! 🌟
